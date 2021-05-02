@@ -1,14 +1,11 @@
 # flutter_task_1
 
-Icon & Text with Flutter UI!
+Dice Roller & can reset the Dice
 
 
-## REAL ScreenShot
-
-![Icon_with_Text_image](https://user-images.githubusercontent.com/47388207/116399238-feaf6d80-a828-11eb-9f51-44e2e786b6bd.jpg)
+## REAL VideoScreen
 
 https://user-images.githubusercontent.com/47388207/116811705-e736f400-ab4a-11eb-841c-a214f42209ce.mp4
-
 
 
 ## Thanks DSC
